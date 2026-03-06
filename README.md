@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I'm **[`hyzam`]()**, I am an aspiring cybersecurity professional exploring both offensive and defensive security domains. My interests include ethical hacking, network security, vulnerability assessment, and SOC operations. I aim to build practical security skills through hands-on labs, security tools, and cybersecurity projects.
+I'm **`hyzam`**  an aspiring cybersecurity professional exploring both offensive and defensive security domains. My interests include ethical hacking, network security, vulnerability assessment, and SOC operations. I aim to build practical security skills through hands-on labs, security tools, and cybersecurity projects.
 
-<a href="https://linkedin.com/hyzamk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/hyzamk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
 
 - **Name**: hyzam
 - **From**: India
-- **Bug Hunter** | **Security Researcher** | **SOC analyst**
+- **Bug Hunter** | **Security Researcher** | **SOC analyst** | **VAPT**
 - Cybersecurity enthusiast focused on learning how systems can be secured and protected from real-world threats
 - Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
 - I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **SOC operations**.
@@ -43,8 +43,7 @@ I'm **[`hyzam`]()**, I am an aspiring cybersecurity professional exploring both 
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
+<img src="https://img.shields.io/badge/IBM-Fundamentals%20of%20Cybersecurity-blue?style=for-the-badge&logo=ibm&logoColor=white&color=000000" alt="IBM Fundamentals of Cybersecurity Certification" />
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
 
 </div>
