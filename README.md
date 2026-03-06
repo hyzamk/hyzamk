@@ -1,53 +1,41 @@
 ## Hi there 👋
 
-I'm **[`hyzam`]()**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
+I'm **[`hyzam`]()**, I am an aspiring cybersecurity professional exploring both offensive and defensive security domains. My interests include ethical hacking, network security, vulnerability assessment, and SOC operations. I aim to build practical security skills through hands-on labs, security tools, and cybersecurity projects.
 
-<a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/hyzamk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: Scratch
+- **Name**: hyzam
 - **From**: India
-- **Bug Hunter** | **Security Researcher** | **Freelance Penetration Tester**
-- I have experience in bug hunting, vulnerability assessment, penetration testing, and social engineering.
+- **Bug Hunter** | **Security Researcher** | **SOC analyst**
+- Cybersecurity enthusiast focused on learning how systems can be secured and protected from real-world threats
 - Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
-- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
+- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **SOC operations**.
 
 </details>
 <br>
 
 ---
 
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+<h2 id="securitytools_skills" align=''> Security Tools & Skills </h2>
 
 <br>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnubash&color=000000" alt="Nmap" />
+      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&color=000000" alt="OWASP" />
+      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" alt="Splunk" />
+      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&color=000000" alt="TryHackMe" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
       <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-
-
   </div>
 </div>
 
