@@ -55,7 +55,7 @@ I'm **`hyzam`**  an aspiring cybersecurity professional exploring both offensive
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 1](https://github.com/hyzamk/wazuh-threat-detection-lab.git)**    | Wazuh-based SIEM lab integrating FIM, VirusTotal, OTX, MITRE ATT&CK, and automated threat response. |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
