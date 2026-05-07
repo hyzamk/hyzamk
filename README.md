@@ -56,7 +56,7 @@ I'm **`hyzam`**  an aspiring cybersecurity professional exploring both offensive
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[wazuh-threat-detection-lab](https://github.com/hyzamk/wazuh-threat-detection-lab.git)**    | Wazuh-based SIEM lab integrating FIM, VirusTotal, OTX, MITRE ATT&CK, and automated threat response. |
-| **[Splunk-Based Threat Detection & Monitoring Lab](https://github.com/)**    | Short Description |
+| **[splunk-siem_home_Lab](https://github.com/hyzamk/splunk-siem-home-lab)**    | Windows Log Monitoring & Threat Detection using Splunk Enterprise and Universal Forwarder  |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
