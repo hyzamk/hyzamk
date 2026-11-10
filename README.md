@@ -36,27 +36,57 @@ My goal is to continuously strengthen my offensive and defensive security skills
 <br>
 
 
+
 ---
 
-<h2 id="securitytools_skills" align=''> Security Tools & Skills </h2>
+<h2 align="left">Security Tools & Technical Skills</h2>
 
-<br>
+<h3>Offensive Security & Web Application Testing</h3>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnubash&color=000000" alt="Nmap" />
-      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&color=000000" alt="OWASP" />
-      <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&color=000000" alt="Splunk" />
-      <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&color=000000" alt="TryHackMe" />
-      <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-      <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-  </div>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge" alt="OWASP ZAP" />
+</p>
+
+<h3>Reconnaissance & Vulnerability Assessment</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Subfinder-5A45FF?style=for-the-badge" alt="Subfinder" />
+  <img src="https://img.shields.io/badge/Amass-00AEEF?style=for-the-badge" alt="Amass" />
+  <img src="https://img.shields.io/badge/Nuclei-4B32C3?style=for-the-badge" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/Feroxbuster-333333?style=for-the-badge" alt="Feroxbuster" />
+  <img src="https://img.shields.io/badge/Dirsearch-333333?style=for-the-badge" alt="Dirsearch" />
+  <img src="https://img.shields.io/badge/OpenVAS-00A859?style=for-the-badge" alt="OpenVAS" />
+</p>
+
+<h3>Defensive Security & Network Analysis</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+<h3>Platforms & Development Tools</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+<h3>Learning & Practice Platforms</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+</p>
+
+---
+
 
 ---
 <h2 id="Certifications" align=''> Certifications </h2>
