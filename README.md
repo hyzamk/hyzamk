@@ -97,14 +97,20 @@ My goal is to continuously strengthen my offensive and defensive security skills
   </a>
 </p>
 
+
 ---
-<h2 id="Certifications" align=''> Certifications </h2>
 
-<div>
-<img src="https://img.shields.io/badge/IBM-Fundamentals%20of%20Cybersecurity-blue?style=for-the-badge&logo=ibm&logoColor=white&color=000000" alt="IBM Fundamentals of Cybersecurity Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
+<h2>Certifications</h2>
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Fundamentals" />
+
+  <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-CC0000?style=for-the-badge" alt="Certified Ethical Hacker" />
+
+  <img src="https://img.shields.io/badge/CST-Certified_Security_Technician-00549E?style=for-the-badge" alt="Certified Security Technician" />
+</p>
+
+---
 
 ---
 
