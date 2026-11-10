@@ -112,15 +112,22 @@ My goal is to continuously strengthen my offensive and defensive security skills
 
 ---
 
----
-
-<h2 id="Projects" align=''> Projects </h2>
 
 
-| **Project**      | **Description**                                                                                  |
-|-------------------|--------------------------------------------------------------------------------------------------|
-| **[wazuh-threat-detection-lab](https://github.com/hyzamk/wazuh-threat-detection-lab.git)**    | Wazuh-based SIEM lab integrating FIM, VirusTotal, OTX, MITRE ATT&CK, and automated threat response. |
-| **[splunk-siem_home_Lab](https://github.com/hyzamk/splunk-siem-home-lab)**    | Windows Log Monitoring & Threat Detection using Splunk Enterprise and Universal Forwarder  |
-| **[Project 3](https://github.com/)**    | Short Description | 
+<h2>Projects</h2>
+
+### Offensive Security
+
+| Project | Description |
+|---|---|
+| **Web Application Security Research** | Hands-on web vulnerability testing, security analysis, vulnerability validation, and remediation research in authorized environments. |
+| **API Security Testing** | Practical assessment of API authentication, authorization, input validation, access control, and business logic vulnerabilities. |
+
+### Defensive Security
+
+| Project | Description |
+|---|---|
+| [Wazuh Threat Detection Lab](https://github.com/hyzamk/wazuh-threat-detection-lab) | SIEM lab integrating File Integrity Monitoring (FIM), VirusTotal, AlienVault OTX, MITRE ATT&CK mapping, and automated threat response. |
+| [Splunk SIEM Home Lab](https://github.com/hyzamk/splunk-siem-home-lab) | Windows log monitoring and security event analysis using Splunk Enterprise and Universal Forwarder. |
 
 ---
