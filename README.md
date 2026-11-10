@@ -79,14 +79,23 @@ My goal is to continuously strengthen my offensive and defensive security skills
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
+
 <h3>Learning & Practice Platforms</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <a href="https://portswigger.net/web-security">
+    <img src="https://img.shields.io/badge/PortSwigger-Web_Security_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="PortSwigger Web Security Academy" />
+  </a>
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-Practical_Labs-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://www.hackthebox.com">
+    <img src="https://img.shields.io/badge/Hack_The_Box-Pentesting-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  </a>
+  <a href="https://ctf.hacker101.com">
+    <img src="https://img.shields.io/badge/Hacker101-Bug_Bounty-494649?style=for-the-badge" alt="Hacker101" />
+  </a>
 </p>
-
----
-
 
 ---
 <h2 id="Certifications" align=''> Certifications </h2>
