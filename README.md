@@ -1,21 +1,40 @@
 ## Hi there 👋
 
-I'm **`hyzam`**  an aspiring cybersecurity professional exploring both offensive and defensive security domains. My interests include ethical hacking, network security, vulnerability assessment, and SOC operations. I aim to build practical security skills through hands-on labs, security tools, and cybersecurity projects.
+I'm **Hyzam**, a cybersecurity professional focused on **Web Application Security, API Security, and Vulnerability Assessment & Penetration Testing (VAPT)**.
 
-<a href="https://linkedin.com/in/hyzamk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+I enjoy analyzing application behavior, identifying security vulnerabilities, validating their impact, and developing practical remediation recommendations. I also explore defensive security through hands-on SIEM labs and threat detection projects.
+
+My goal is to continuously strengthen my offensive and defensive security skills through practical research, hands-on labs, and responsible vulnerability disclosure.
+
+### Areas of Interest
+- Web Application Penetration Testing
+- API Security Assessment
+- Ethical Hacking & Vulnerability Research
+- Authentication & Authorization Testing
+- Network Security
+- Security Operations & Threat Detection
+
+
+<a href="https://linkedin.com/in/hyzamk">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <details>
-  <summary>More about me</summary>
+  <summary><b>More About Me</b></summary>
 
-- **Name**: hyzam
-- **From**: India
-- **Bug Hunter** | **Security Researcher** | **SOC analyst** | **VAPT**
-- Cybersecurity enthusiast focused on learning how systems can be secured and protected from real-world threats
-- Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
-- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **SOC operations**.
+- **Name:** Hyzam
+- **Location:** India
+- **Focus:** Web Application Security & VAPT
+- **Interests:** API Security, Vulnerability Research, Ethical Hacking, and Security Operations.
+- Hands-on experience with web application and API security testing through authorized security assessments and vulnerability disclosure programs.
+- Interested in identifying security weaknesses, validating their impact, and recommending effective remediation.
+- Recognized in the **Netherlands Cancer Institute Hall of Fame** for responsible vulnerability disclosure.
+- Continuously developing practical skills in offensive security while maintaining knowledge of defensive security and threat detection.
 
 </details>
+
 <br>
+
 
 ---
 
